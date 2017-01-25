@@ -1,7 +1,7 @@
 # ReviewNet_text
 
 This project is to build a deep review neural network (DRNN) for text recognition.
-The code for attentive lstm and DRNN model will be publish in the near future.
+The code for attentive lstm and DRNN model will be published in the near future.
 
 The datasets we use are as follows:
 
