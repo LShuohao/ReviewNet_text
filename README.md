@@ -4,6 +4,7 @@ This project is to build a deep review neural network (DRNN) for text recognitio
 The code for attentive lstm and DRNN model will be publish in the near future.
 
 The datasets we use are as follows:
+
 Training set (Synth): http://www.robots.ox.ac.uk/~vgg/data/text/
 
 Testing set (ICDAR03): http://pan.baidu.com/s/1i5sPOyT password:3g9n
