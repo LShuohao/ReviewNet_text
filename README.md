@@ -17,6 +17,6 @@ Testing set (SVT): http://pan.baidu.com/s/1gfvBIp1 password:fgus
 
 These datasets include the images, groundtruth, code for lexion generation, different lexions.
 
-We implenment our project with Torch7 (http://torch.ch/). If you want to train the model, your computer's GPU RAM should be larger than 2G.
+We implement our project with Torch7 (http://torch.ch/). If you want to train the model, your computer's GPU RAM should be larger than 2G.
 
 If you want to recognize the scene text with a lexion, you should install pyxDamerauLevenshtein with python. The code is in: https://github.com/gfairchild/pyxDamerauLevenshtein
