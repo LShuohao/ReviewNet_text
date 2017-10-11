@@ -20,3 +20,5 @@ These datasets include the images, groundtruth, code for lexion generation, diff
 We implement our project with Torch7 (http://torch.ch/). If you want to train the model, your computer's GPU RAM should be larger than 2G.
 
 If you want to recognize the scene text with a lexion, you should install pyxDamerauLevenshtein with python. The code is in: https://github.com/gfairchild/pyxDamerauLevenshtein
+
+LstmLayer.lua is the lstm layer with attention model. It is the core of our project.
